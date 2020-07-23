@@ -1,5 +1,4 @@
 <h1>Shraddha Prasad 👋</h1>
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <a href="https://www.linkedin.com/in/shraddha-prasad-6a60b0188/"><img src="https://github.com/shraddhavp/shraddhavp/blob/master/linkedin.png" width="40" /></a>
 <a href="https://github.com/shraddhavp"><img src="https://github.com/shraddhavp/shraddhavp/blob/master/github-logo.png" width="40" /></a>
 <a href="mailto:anitha.shraddha@gmail.com"><img src="https://github.com/shraddhavp/shraddhavp/blob/master/google-plus.png" width="40" /></a>
