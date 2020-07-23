@@ -1,7 +1,7 @@
 <h1>Shraddha Prasad 👋</h1>
-<a href="https://www.linkedin.com/in/shraddha-prasad-6a60b0188/"><img src="https://github.com/shraddhavp/shraddhavp/blob/master/linkedin.png" width="40" /></a>
-<a href="https://github.com/shraddhavp"><img src="https://github.com/shraddhavp/shraddhavp/blob/master/github-logo.png" width="40" /></a>
-<a href="mailto:anitha.shraddha@gmail.com"><img src="https://github.com/shraddhavp/shraddhavp/blob/master/google-plus.png" width="40" /></a>
+<a href="https://www.linkedin.com/in/shraddha-prasad-6a60b0188/"><img src="https://github.com/shraddhavp/shraddhavp/blob/master/linkedin.png" align="right" width="40" /></a>
+<a href="https://github.com/shraddhavp"><img src="https://github.com/shraddhavp/shraddhavp/blob/master/github-logo.png" align="right" width="40" /></a>
+<a href="mailto:anitha.shraddha@gmail.com"><img src="https://github.com/shraddhavp/shraddhavp/blob/master/google-plus.png" align="right" width="40" /></a>
 <h2> I am Python Developer and Mentor at Girlscript Jashedpur 😄</h2>
 <details>
 <summary>Education Details 📚</summary>
