@@ -1,5 +1,5 @@
 <img src="https://github.com/shraddhavp/shraddhavp/blob/master/hi.gif" align="center"/>
-<h1>Shraddha Prasad 👋</h1>
+<h1>Shraddha V Prasad 👋</h1>
 <a href="https://www.linkedin.com/in/shraddha-prasad-6a60b0188/"><img src="https://github.com/shraddhavp/shraddhavp/blob/master/linkedin.png" align="right" width="40" /></a>
 <a href="https://github.com/shraddhavp"><img src="https://github.com/shraddhavp/shraddhavp/blob/master/github-logo.png" align="right" width="40" /></a>
 <a href="mailto:anitha.shraddha@gmail.com"><img src="https://github.com/shraddhavp/shraddhavp/blob/master/google-plus.png" align="right" width="40" /></a>
@@ -19,6 +19,7 @@
 <ul>
   <li><a>Skills - Machine Learning, Artificial Intelligence, Data Structures,Open source development </a></li>
   <li><a> Tools - Python, C, C++, Java, Linux-Ubuntu, Git </a></li>
+  <li><a> HTML,CSS,Javascript,Bootstrap </a></li>
 </ul>
 </details>
 
@@ -28,6 +29,7 @@
   <ul>
     <li><a>Summer Research Intern at Computer science and Automation IISC,Bangalore</a></li>
     <li><a>Student Intern at American Express</a></li>
+     <li><a>Top Contributor at HakinCodes 2020 and Girlscript Summer of code extended 2020 </a></li>
      </ul>
 </details>
 <details>
