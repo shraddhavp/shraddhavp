@@ -10,7 +10,7 @@
 <details>
 <summary>Education Details 📚</summary>
 <ul>
-  <li>Engineering (Graduating-2020): <a href="https://jssateb.ac.in/">JSS ACADEMY OF TECHNICAL EDUCATION</a></li>
+  <li>Engineering (Graduating): <a href="https://jssateb.ac.in/">JSS ACADEMY OF TECHNICAL EDUCATION</a></li>
 </ul>
 </details>
 
