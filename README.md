@@ -1,6 +1,6 @@
 <img src="https://github.com/shraddhavp/shraddhavp/blob/master/hi.gif" align="center"/>
 <h1>Shraddha V Prasad 👋</h1>
-<a href="https://www.linkedin.com/in/shraddha-prasad-6a60b0188/"><img src="https://github.com/shraddhavp/shraddhavp/blob/master/linkedin.png" align="right" width="40" /></a>
+<a href="https://www.linkedin.com/in/shraddha-v-prasad/"><img src="https://github.com/shraddhavp/shraddhavp/blob/master/linkedin.png" align="right" width="40" /></a>
 <a href="https://github.com/shraddhavp"><img src="https://github.com/shraddhavp/shraddhavp/blob/master/github-logo.png" align="right" width="40" /></a>
 <a href="mailto:anitha.shraddha@gmail.com"><img src="https://github.com/shraddhavp/shraddhavp/blob/master/google-plus.png" align="right" width="40" /></a>
 <h2> I am Developer in the making,Blogger, Top Contributor @Hackin codes ,SDE@American Express,Google Seaosn of Docs 2021 -Wechaty😄</h2>
@@ -10,14 +10,14 @@
 <details>
 <summary>Education Details 📚</summary>
 <ul>
-  <li>Engineering (Graduating): <a href="https://jssateb.ac.in/">JSS ACADEMY OF TECHNICAL EDUCATION</a></li>
+  <li>Engineering (Graduated 2020): <a href="https://jssateb.ac.in/">JSS ACADEMY OF TECHNICAL EDUCATION</a></li>
 </ul>
 </details>
 
 <details>
 <summary>Area of Interests 👓 </summary>
 <ul>
-  <li><a>Skills - Machine Learning, Artificial Intelligence, Data Structures,Open source development </a></li>
+  <li><a>Skills - Data Structures,Open source development,Javascript,ReactJS </a></li>
   <li><a> Tools - Python, C, C++, Java, Linux-Ubuntu, Git </a></li>
   <li><a> HTML,CSS,Javascript,Bootstrap </a></li>
 </ul>
