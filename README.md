@@ -1,4 +1,4 @@
-<h1>Shraddha Vasant Prasad 👋</h1>
+<h2>Hi 👋 I'm Shraddha Vasant Prasad</h2>
 <a href="https://www.linkedin.com/in/shraddha-v-prasad/"><img src="https://github.com/shraddhavp/shraddhavp/blob/master/linkedin.png" align="right" width="40" /></a>
 <a href="https://github.com/shraddhavp"><img src="https://github.com/shraddhavp/shraddhavp/blob/master/github-logo.png" align="right" width="40" /></a>
 <a href="mailto:anitha.shraddha@gmail.com"><img src="https://github.com/shraddhavp/shraddhavp/blob/master/google-plus.png" align="right" width="40" /></a>
