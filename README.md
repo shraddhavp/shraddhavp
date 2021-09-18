@@ -1,4 +1,3 @@
-<img src="https://github.com/shraddhavp/shraddhavp/blob/master/hi.gif" align="center"/>
 <h1>Shraddha Vasant Prasad 👋</h1>
 <a href="https://www.linkedin.com/in/shraddha-v-prasad/"><img src="https://github.com/shraddhavp/shraddhavp/blob/master/linkedin.png" align="right" width="40" /></a>
 <a href="https://github.com/shraddhavp"><img src="https://github.com/shraddhavp/shraddhavp/blob/master/github-logo.png" align="right" width="40" /></a>
