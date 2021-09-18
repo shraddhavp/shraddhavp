@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/shraddha-v-prasad/"><img src="https://github.com/shraddhavp/shraddhavp/blob/master/linkedin.png" align="right" width="40" /></a>
 <a href="https://github.com/shraddhavp"><img src="https://github.com/shraddhavp/shraddhavp/blob/master/github-logo.png" align="right" width="40" /></a>
 <a href="mailto:anitha.shraddha@gmail.com"><img src="https://github.com/shraddhavp/shraddhavp/blob/master/google-plus.png" align="right" width="40" /></a>
-<h2> I am Developer in the making,Blogger, Top Contributor @Hackin codes ,SDE@American Express,Google Seaosn of Docs 2021 -Wechaty</h2>
+<h3> I am Developer in the making,Blogger, Top Contributor @Hackin codes ,SDE@American Express,Google Seaosn of Docs 2021 -Wechaty</h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shraddhavp&count_private=true&include_all_commits=true&show_icons=true&title_color=0366d6&icon_color=0366d6&text_color=24292e&bg_color=fff" />
 </p>
