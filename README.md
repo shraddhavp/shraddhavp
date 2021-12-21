@@ -9,7 +9,7 @@
 <details>
 <summary>Education Details 📚</summary>
 <ul>
-  <li>Engineering (Graduated 2020): <a href="https://jssateb.ac.in/">JSS ACADEMY OF TECHNICAL EDUCATION</a></li>
+  <li>Computer Science Engineering (Graduated 2020): <a href="https://jssateb.ac.in/">JSS ACADEMY OF TECHNICAL EDUCATION</a></li>
 </ul>
 </details>
 
@@ -32,12 +32,6 @@
      </ul>
 </details>
 <details>
-  <summary>  Projects 🔭 </summary>
-  <ul>
-    <li>OpenCV and Image processing   Based Face detection using IR thermal camera images for Army @IISC,Bangalore </li>
-    <li>Automaion of manula tasks and data analytics at AmEx</li>
-  </ul>
-</details>
 <h2>Get in touch </h2>
 <details>
   <summary>Contact: 💬</summary>
