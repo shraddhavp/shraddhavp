@@ -1,7 +1,5 @@
 <h1 align="center">Hi, Shraddha here 👋</h1>
 
-<h3> I am Developer in the making,Blogger, Top Contributor @Hackin codes ,SDE@American Express,Google Seaosn of Docs 2021 -Wechaty</h3>
-
 <p align="center" style="display: inline">
  <a href="https://medium.com/@shraddha-writes/"><img src="https://img.shields.io/badge/BLOG-shraddha-writes-lightgrey/?style=for-the-badge&color=fedcba"></a>
 <img src="https://img.shields.io/github/followers/shraddhavp?style=for-the-badge">
@@ -9,6 +7,10 @@
 <a href="https://www.linkedin.com/in/shraddha-v-prasad/"><img src="https://img.shields.io/badge/-ShraddhaVP-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnab-sen-b6950a194/)](https://www.linkedin.com/in/shraddha-v-prasad/"></a>
 </p>
 
+-I am Developer in the making
+-Blogger by passion 
+-Top Contributor @Hackin codes 
+-SDE@American Express,Google Seaosn of Docs 2021 -Wechaty
 
 <!-- ## I love to: 
  - **Contribute to Open Source**
