@@ -22,14 +22,14 @@
  * **Contribute to Open Source**
  * **Write Blogs**
  
-<hr>
+<
 
 ## My profiles:
  * <a href="https://www.linkedin.com/in/shraddha-v-prasad/" target="blank">LinkedIn</a>
  * <a href="https://github.com/shraddhavp" target="blank">GitHub</a>
  * <a href="https://medium.com/@shraddha-writes" target="blank">Medium</a>
 
-<hr>
+
 
 |<img src="https://github-readme-stats.vercel.app/api?username=shraddhavp&show_icons=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=shraddhavp&theme=dark&hide_border=true"/>|
 |---|---|
