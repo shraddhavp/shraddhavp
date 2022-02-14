@@ -24,7 +24,7 @@
 <hr>
 
 - 👨‍🎓 Graduated from  **Dept. of Computer Science and Technology, JSSATE, Bangalore**
-- 💻 Prior experience with **ReactJS,JavaScript, Python, C** **and** **C++**
+- 💻 Prior experience with **ReactJS,JavaScript,Java,Python, C** **and** **C++**
 - 📫 Feel free to contact me **anitha.shraddha@gmail.com**
 
 <hr>
