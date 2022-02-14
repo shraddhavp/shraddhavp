@@ -25,7 +25,7 @@
 
 - 👨‍🎓 Graduated from  **Dept. of Computer Science and Technology, JSSATE, Bangalore**
 - 💻 Prior experience with **ReactJS,JavaScript, Python, Cand **C++**
-- 📫 Feel free to contact me **anitha.shraddha@gmail.com@gmail.com**
+- 📫 Feel free to contact me **anitha.shraddha@gmail.com**
 
 <hr>
 
