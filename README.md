@@ -6,7 +6,8 @@
 <a href="https://www.linkedin.com/in/shraddha-v-prasad/"><img src="https://img.shields.io/badge/-ShraddhaVP-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnab-sen-b6950a194/)](https://www.linkedin.com/in/shraddha-v-prasad/"></a>
 </p>
 
-- 👨‍🎓 Graduated from  **Dept. of Computer Science and Technology, JSSATE, Bangalore**
+- 👨‍🎓Maters student in National Instituite of Karnataka,Suratkal in Computational Data Sciences 
+-  Under-Graduation from  **Dept. of Computer Science and Technology, JSSATE, Bangalore**
 - 💻 Prior experience with **ReactJS,JavaScript,Java,Python, C** **and** **C++**
 - 📫 Feel free to contact me **anitha.shraddha@gmail.com**
 
@@ -15,7 +16,7 @@
 * I am Developer in the making
 * Blogger by passion 
 * Top Contributor @Hackin codes 
-* SDE@American Express,Google Seaosn of Docs 2021 -Wechaty
+* Ex-American Express,Google Seaosn of Docs 2021 -Wechaty
 <hr>
 
  ## I love to: 
