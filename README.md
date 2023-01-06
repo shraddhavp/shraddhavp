@@ -13,7 +13,7 @@
 
 <hr>
 
-* I am Developer in the making
+* I am a Developer in the making
 * Blogger by passion 
 * Top Contributor @Hackin codes 
 * Ex-American Express employee
