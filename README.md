@@ -16,7 +16,8 @@
 * I am Developer in the making
 * Blogger by passion 
 * Top Contributor @Hackin codes 
-* Ex-American Express,Google Seaosn of Docs 2021 -Wechaty
+* Ex-American Express employee
+* Google Seaosn of Docs 2021 -Wechaty Participant
 <hr>
 
  ## I love to: 
