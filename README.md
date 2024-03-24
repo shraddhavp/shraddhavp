@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/shraddha-v-prasad/"><img src="https://img.shields.io/badge/-ShraddhaVP-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnab-sen-b6950a194/)](https://www.linkedin.com/in/shraddha-v-prasad/"></a>
 </p>
 
-- 👨‍🎓Maters student in **National Instituite of Karnataka,Suratkal in Computational and Data Science** 
+- 👨‍🎓Masters  Research student in **National Instituite of Karnataka,Suratkal in Computational and Data Science** 
 - 🎓 Under-Graduation from  **Dept. of Computer Science and Technology, JSSATE, Bangalore**
 - 📫 Feel free to contact me **anitha.shraddha@gmail.com**
 
